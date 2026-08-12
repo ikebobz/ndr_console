@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@smash-sdk/uploader": "^2.1.5"
+  }
+}
